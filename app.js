@@ -10,6 +10,6 @@ btn.addEventListener("click",() =>{
         img.src ="delete.png";
         notescontainer.appendChild(inputbox).appendChild(img);
         
-}
+})
 
 
