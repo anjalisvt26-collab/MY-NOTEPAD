@@ -6,7 +6,3 @@ Tech Used:
 HTML
 CSS
 JavaScript
-DOM Manipulation
-Local Storage
-
-Agar tumhare My Not
