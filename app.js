@@ -17,4 +17,4 @@ notescontainer.addEventListener("click", function(e){
     if(e.target.tagName === "IMG"){
  e.target.parentElement.remove();
     } 
-}
+})
